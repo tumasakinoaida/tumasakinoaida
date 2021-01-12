@@ -1,0 +1,65 @@
+header{
+    text-align:right;
+    list-style: none;
+    display: block;
+    background-color: #ddd;
+    line-height: 50px;
+}
+
+header a{
+    padding: 13px 25px;
+}
+
+header a:hover{
+    background-color: #aaa;
+    color: #ffffff;
+}
+
+.main h1{
+    font-size: 80px;
+    color: tomato;
+    text-align:center;
+}
+
+.jp-main{
+    text-align:center;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.main a{
+    color: red;
+    font-weight: bold;
+}
+
+.Eng-main{
+    text-align: center;
+    font-size: medium;
+    color: #555;
+    border-bottom: 2px solid #ccc;
+    padding-top: 30px;
+    padding-bottom: 90px;
+    margin: 0px 50px;
+}
+
+.home{
+    text-align:center;
+    font-size: 20px;
+    margin: 0px 50px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 40px;
+}    
+
+.home a{
+    margin: 0px 15px;
+    font-weight: bold;
+}
+
+.page{
+    text-align:center;
+    font-size: 20px;
+}
+
+.page span{
+    font-weight: bold;
+}
